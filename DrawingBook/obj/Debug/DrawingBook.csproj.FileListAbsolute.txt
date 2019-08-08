@@ -1,0 +1,7 @@
+E:\Projects\train_interview\DrawingBook\DrawingBook\DrawingBook\obj\Debug\DrawingBook.csprojResolveAssemblyReference.cache
+E:\Projects\train_interview\DrawingBook\DrawingBook\DrawingBook\obj\Debug\DrawingBook.csproj.CoreCompileInputs.cache
+E:\Projects\train_interview\DrawingBook\DrawingBook\DrawingBook\bin\Debug\DrawingBook.exe.config
+E:\Projects\train_interview\DrawingBook\DrawingBook\DrawingBook\bin\Debug\DrawingBook.exe
+E:\Projects\train_interview\DrawingBook\DrawingBook\DrawingBook\bin\Debug\DrawingBook.pdb
+E:\Projects\train_interview\DrawingBook\DrawingBook\DrawingBook\obj\Debug\DrawingBook.exe
+E:\Projects\train_interview\DrawingBook\DrawingBook\DrawingBook\obj\Debug\DrawingBook.pdb
